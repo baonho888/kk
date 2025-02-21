@@ -574,9 +574,6 @@ end)
 sldrs:Button("Tốc độ 150", function() 
     sldr:Change(150) 
 end)
-
-
-
 local Section = Tab:AddSection({
 	Name = "bấm vào để dịch chuyển"
 })
